@@ -1,0 +1,2 @@
+deploy vue app to gh-pages
+https://www.youtube.com/watch?v=yo2bMGnIKE8&t=8s
